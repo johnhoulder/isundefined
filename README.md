@@ -1,6 +1,6 @@
 # isundefined
 
-[![downloads](https://img.shields.io/npm/dm/isundefined.svg)](https://www.npmjs.org/package/isundefined)
+[![downloads](https://img.shields.io/npm/dm/isundefined.svg)](https://www.npmjs.org/package/isundefined) [![Build Status](https://travis-ci.org/johnhoulder/isundefined.svg?branch=master)](https://travis-ci.org/johnhoulder/isundefined)
 
 ## Usage
 ```js
