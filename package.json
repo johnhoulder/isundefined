@@ -4,9 +4,6 @@
   "description": "Check if a variable is undefined in javascript!",
   "homepage": "https://github.com/johnhoulder/isundefined",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/johnhoulder/isundefined.git"
