@@ -1,3 +1,1 @@
-module.exports = function(a) {
-	return a === undefined;
-};
+module.exports = a => a === undefined;
